@@ -11,5 +11,7 @@ public class Main {
 	private static void displayGreenting(){
 		System.out.println("HELLO Happy Sale People!");
 		System.out.println("This APP show Sales Data");
+		
+		System.out.println("This is my test 1");
 	}
 }
